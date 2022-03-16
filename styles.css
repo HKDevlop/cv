@@ -1,0 +1,98 @@
+body{
+    background-color: #270082;
+    margin: 0;
+    text-align: center;
+    height: 100%;
+    font-family: 'Prompt', sans-serif;
+    font-size: 50px;
+    color:antiquewhite;
+
+}
+.name{
+    margin-top:0;
+    margin-bottom: 0;
+    padding-top: 100px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.learn{
+    
+    font-size:35px ;
+}
+span{
+    text-decoration: underline;
+    font-style: italic;
+}
+.top{
+    
+    background-color:#1A1A40;
+    height: 100vh;
+    position: relative;
+}
+.mountain{
+    position: absolute;
+    bottom:0px;
+    left: 475px;
+}
+.upper-cloud{
+    position: absolute;
+    right: 20%;
+    top:225px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 175px;
+    left: 475px;
+}
+
+.avdeta{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.avatar{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: whitesmoke;
+}
+
+p{
+    font-size: 20px;
+}
+
+.skills{
+    padding-top: 70px;
+    padding: 70px;
+}
+.skill{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.Hobbies{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.hob{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+}
+.bottom-container{
+    background-color:gainsboro;
+    margin-bottom: 0px;
+    color: black;
+    font-size: 50px;
+}
